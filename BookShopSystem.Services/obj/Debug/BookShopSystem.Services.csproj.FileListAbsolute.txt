@@ -1,0 +1,16 @@
+C:\Users\Dell\Downloads\Softuni\Asp.Net\hw-uslovia\08-kum-uslovieto-BookShopSystem-Solution\BookShopSystem\BookShopSystem.Services\bin\Debug\BookShopSystem.Services.dll.config
+C:\Users\Dell\Downloads\Softuni\Asp.Net\hw-uslovia\08-kum-uslovieto-BookShopSystem-Solution\BookShopSystem\BookShopSystem.Services\bin\Debug\BookShopSystem.Services.dll
+C:\Users\Dell\Downloads\Softuni\Asp.Net\hw-uslovia\08-kum-uslovieto-BookShopSystem-Solution\BookShopSystem\BookShopSystem.Services\bin\Debug\BookShopSystem.Services.pdb
+C:\Users\Dell\Downloads\Softuni\Asp.Net\hw-uslovia\08-kum-uslovieto-BookShopSystem-Solution\BookShopSystem\BookShopSystem.Services\bin\Debug\AutoMapper.dll
+C:\Users\Dell\Downloads\Softuni\Asp.Net\hw-uslovia\08-kum-uslovieto-BookShopSystem-Solution\BookShopSystem\BookShopSystem.Services\bin\Debug\BookShopSystem.Data.dll
+C:\Users\Dell\Downloads\Softuni\Asp.Net\hw-uslovia\08-kum-uslovieto-BookShopSystem-Solution\BookShopSystem\BookShopSystem.Services\bin\Debug\BookShopSytem.Models.dll
+C:\Users\Dell\Downloads\Softuni\Asp.Net\hw-uslovia\08-kum-uslovieto-BookShopSystem-Solution\BookShopSystem\BookShopSystem.Services\bin\Debug\EntityFramework.dll
+C:\Users\Dell\Downloads\Softuni\Asp.Net\hw-uslovia\08-kum-uslovieto-BookShopSystem-Solution\BookShopSystem\BookShopSystem.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dell\Downloads\Softuni\Asp.Net\hw-uslovia\08-kum-uslovieto-BookShopSystem-Solution\BookShopSystem\BookShopSystem.Services\bin\Debug\BookShopSystem.Data.pdb
+C:\Users\Dell\Downloads\Softuni\Asp.Net\hw-uslovia\08-kum-uslovieto-BookShopSystem-Solution\BookShopSystem\BookShopSystem.Services\bin\Debug\BookShopSytem.Models.pdb
+C:\Users\Dell\Downloads\Softuni\Asp.Net\hw-uslovia\08-kum-uslovieto-BookShopSystem-Solution\BookShopSystem\BookShopSystem.Services\bin\Debug\AutoMapper.xml
+C:\Users\Dell\Downloads\Softuni\Asp.Net\hw-uslovia\08-kum-uslovieto-BookShopSystem-Solution\BookShopSystem\BookShopSystem.Services\bin\Debug\EntityFramework.xml
+C:\Users\Dell\Downloads\Softuni\Asp.Net\hw-uslovia\08-kum-uslovieto-BookShopSystem-Solution\BookShopSystem\BookShopSystem.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dell\Downloads\Softuni\Asp.Net\hw-uslovia\08-kum-uslovieto-BookShopSystem-Solution\BookShopSystem\BookShopSystem.Services\obj\Debug\BookShopSystem.Services.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Downloads\Softuni\Asp.Net\hw-uslovia\08-kum-uslovieto-BookShopSystem-Solution\BookShopSystem\BookShopSystem.Services\obj\Debug\BookShopSystem.Services.dll
+C:\Users\Dell\Downloads\Softuni\Asp.Net\hw-uslovia\08-kum-uslovieto-BookShopSystem-Solution\BookShopSystem\BookShopSystem.Services\obj\Debug\BookShopSystem.Services.pdb
