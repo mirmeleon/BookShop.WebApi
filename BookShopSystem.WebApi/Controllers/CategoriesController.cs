@@ -12,9 +12,9 @@ namespace BookShopSystem.WebApi.Controllers
     {
         private ICategoriesService service;
 
-        public CategoriesController(ICategoriesService service)
+        public CategoriesController()
         {
-            this.service = service;
+            this.service = new CategoriesService();
         }
 
         [HttpGet]

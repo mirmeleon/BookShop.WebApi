@@ -11,9 +11,9 @@ namespace BookShopSystem.WebApi.Controllers
     {
         private IBooksService service;
 
-        public BooksController(IBooksService service)
+        public BooksController()
         {
-            this.service = service;
+            this.service = new BooksService();
         }
 
      

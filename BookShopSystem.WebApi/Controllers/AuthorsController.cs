@@ -12,9 +12,9 @@ namespace BookShopSystem.WebApi.Controllers
     {
         private IAuthorsService service;
 
-        public AuthorsController(IAuthorsService service)
+        public AuthorsController()
         {
-            this.service = service;
+            this.service = new AuthorsService();
         }
 
         [HttpGet]

@@ -3,3 +3,8 @@ C:\Users\Dell\Downloads\Softuni\Asp.Net\hw-uslovia\08-kum-uslovieto-BookShopSyst
 C:\Users\Dell\Downloads\Softuni\Asp.Net\hw-uslovia\08-kum-uslovieto-BookShopSystem-Solution\BookShopSystem\BookShopSytem.Models\obj\Debug\BookShopSytem.Models.csprojResolveAssemblyReference.cache
 C:\Users\Dell\Downloads\Softuni\Asp.Net\hw-uslovia\08-kum-uslovieto-BookShopSystem-Solution\BookShopSystem\BookShopSytem.Models\obj\Debug\BookShopSytem.Models.dll
 C:\Users\Dell\Downloads\Softuni\Asp.Net\hw-uslovia\08-kum-uslovieto-BookShopSystem-Solution\BookShopSystem\BookShopSytem.Models\obj\Debug\BookShopSytem.Models.pdb
+C:\Users\Dell\Desktop\g\BookShop.WebApi\BookShopSytem.Models\bin\Debug\BookShopSytem.Models.dll
+C:\Users\Dell\Desktop\g\BookShop.WebApi\BookShopSytem.Models\bin\Debug\BookShopSytem.Models.pdb
+C:\Users\Dell\Desktop\g\BookShop.WebApi\BookShopSytem.Models\obj\Debug\BookShopSytem.Models.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\g\BookShop.WebApi\BookShopSytem.Models\obj\Debug\BookShopSytem.Models.dll
+C:\Users\Dell\Desktop\g\BookShop.WebApi\BookShopSytem.Models\obj\Debug\BookShopSytem.Models.pdb
